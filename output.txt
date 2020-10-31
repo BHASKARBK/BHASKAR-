@@ -1,0 +1,5 @@
+The goodies selected for distribution are: 
+Microwave Oven: 9800
+Alexa: 9999
+
+the difference b/w the chosen goodie with high price and low price is 199
